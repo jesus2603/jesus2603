@@ -1,5 +1,6 @@
 ### __Buenas, mi nombre es Jesús👋__
 ## Actualmente tengo 21 años y resido en Sevilla.
+## Soy estudiante de DAW en ILERNA Sevilla 😄.
 
 
 <!--
